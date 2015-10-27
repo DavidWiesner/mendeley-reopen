@@ -1,0 +1,12 @@
+[Desktop Entry]
+Version=1.0
+Name=Mendeley Reopen
+# Only KDE 4 seems to use GenericName.
+GenericName=Mendley Reopen
+# Gnome and KDE 3 uses Comment.
+Comment=open files from last session mendeley
+Exec=mendeley-reopen
+Terminal=false
+Icon=mendeleydesktop
+Type=Application
+Categories=Utility;
