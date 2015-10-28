@@ -1,4 +1,7 @@
-import mendeleyreopen
-import sys
-if __name__ == "__main__":
-	mendeleyreopen.main(sys.argv)
+from . import main_ui, main_no_ui
+
+
+def no_ui():
+	main_no_ui()
+
+main_ui()
