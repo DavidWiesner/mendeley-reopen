@@ -1,5 +1,5 @@
 # Mendeley-Reopen*
-UI for Opening* Mendeley documents of the last session
+UI to open* Mendeley documents of the last session
 
 ##*Open means focus the document. But at the moment iu can´t open the attached PDF (see #1)
 
