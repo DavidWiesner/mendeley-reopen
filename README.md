@@ -7,11 +7,11 @@ UI for Opening* Mendeley documents of the last session
 
 ## Install
 
-`pip3 install git+https://github.com/DavidWiesner/mendeley-reopen`
+`sudo pip3 install git+https://github.com/DavidWiesner/mendeley-reopen`
 
 ## Uninstall
 
-`pip3 uninstall mendeley-reopen`
+`sudo pip3 uninstall mendeley-reopen`
 
 
 
